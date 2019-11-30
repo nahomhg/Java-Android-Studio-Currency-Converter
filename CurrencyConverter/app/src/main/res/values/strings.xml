@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <array name="currencies">
+        <item>GBP</item>
+        <item>USD</item>
+        <item>JPY</item>
+        <item>EUR</item>
+        <item>INR</item>
+        <item>AUD</item>
+    </array>
+</resources>
